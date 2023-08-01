@@ -1,2 +1,2 @@
 # HackerRank
-Solved HackerRank to keep the skills fresh
+Solved HackerRank problems to keep the skills fresh
